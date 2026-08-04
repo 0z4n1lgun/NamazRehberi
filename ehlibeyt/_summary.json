@@ -1,0 +1,17 @@
+{
+  "total": 95,
+  "written": 95,
+  "failed": 0,
+  "selectors": {
+    "mw-content-text": 60,
+    "article-main-content": 35
+  },
+  "wikipediaSearchPagesWithoutExactArticle": [
+    "jumana",
+    "sukayna",
+    "talib"
+  ],
+  "errors": [],
+  "wikipediaSearch": 60,
+  "tdv": 35
+}
